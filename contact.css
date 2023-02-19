@@ -19,7 +19,7 @@
   }
   .navigation{
     position: relative;
-    width:400px;
+    width:370px;
     height: 70px;
     background:rgb(9, 17, 62);
     display:flex;
@@ -123,7 +123,7 @@
     justify-content: center;
     align-items: center;
     display:flex;
-    width: 400px;
+    width: 370px;
     height: 200px;
     background-color:transparent;
     border: 2px solid rgb(29, 27, 27);
@@ -138,7 +138,7 @@
     justify-content: center;
     align-items: center;
     display:flex;
-    width: 400px;
+    width: 370px;
     height: 70px;
     background-color:transparent;
     border: 2px solid rgb(29, 27, 27);
@@ -153,7 +153,7 @@
     justify-content: center;
     align-items: center;
     display:flex;
-    width: 400px;
+    width: 370px;
     height: 200px;
     background-color:transparent;
     border: 2px solid rgb(29, 27, 27);
@@ -169,7 +169,7 @@
     justify-content: center;
     align-items: center;
     display:flex;
-    width: 400px;
+    width: 370px;
     height: 200px;
     background-color:transparent;
     border: 2px solid rgb(29, 27, 27);
@@ -184,7 +184,7 @@
     justify-content: center;
     align-items: center;
     display:flex;
-    width: 400px;
+    width: 370px;
     height: 200px;
     background-color:transparent;
     border: 2px solid rgb(29, 27, 27);
