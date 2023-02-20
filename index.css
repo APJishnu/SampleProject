@@ -28,7 +28,6 @@
     border-radius: 10px;
     margin: 20px;
     box-shadow: 0px 0px 6px rgb(17, 11, 11);
-  
   }
   .navigation ul{
     display:flex;
@@ -272,6 +271,20 @@
     border-radius:10px ;
     box-shadow: 0px 0px 6px rgb(17, 11, 11);
   
+  }
+  .box5 ul {
+    position: relative;
+    display: flex;
+    z-index: 1;
+  }
+  .box5 .icons{
+    font-size: 20px;
+    color: rgb(159, 18, 88);
+    
+  }
+  .box5 ul li p{
+    margin-left: 20px;
+
   }
   
   
